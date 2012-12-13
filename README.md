@@ -8,7 +8,7 @@ Available Templates
 -------------------
   * [DST Fast Track Scheme for Young Scientists](http://www.serc-dst.org/fasttrack.htm)
 
-        dst_fasttrack_application.tex
+  `dst_fasttrack_application.tex`
 
 How to Contribute
 -----------------
